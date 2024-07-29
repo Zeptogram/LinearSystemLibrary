@@ -1,4 +1,4 @@
-# LinearSystemLibrary
+# Linear System Library
 > Methods of Scientific Computing Project for University Milano Bicocca. 2023-2024. Grade: 30
 
 [![Download Relazione PDF](https://img.shields.io/badge/Download%20Relazione-PDF-lime.svg?style=for-the-badge)](https://github.com/Zeptogram/LinearSystemLibrary/releases/download/final/MCS_Relazione_Progetto_1_Biancini_Mattia_865966_Gargiulo_Elio_869184.pdf)
